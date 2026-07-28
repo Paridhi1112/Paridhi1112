@@ -84,7 +84,7 @@ I'm a **Software Developer** passionate about building scalable web applications
 
 ## 💼 Experience
 
-### Senior Software Engineer — Tech Mahindra Limited (Oracle Client)
+### Software Engineer — Tech Mahindra Limited (Oracle Client)
 📍 India | 🗓️ Aug 2024 – Aug 2025
 
 - Architected fault-tolerant, event-driven distributed data pipelines for Oracle's financial workflow platform, processing **100K+ AES-encrypted records monthly** with **99.9% accuracy**.
