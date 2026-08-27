@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paridhi.goyal1112@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Paridhi11/)
 
-📍 **Dallas, TX** | 🎓 **MS in Information Technology @ Rensselaer Polytechnic Institute** | 💼 **Ex-Tech Mahindra**
+📍 **Dallas, TX** | 🎓 **MS in Information Technology @ Rensselaer Polytechnic Institute** | 💼 **Ex-Oracle**
 
 </div>
 
